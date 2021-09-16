@@ -45,4 +45,4 @@ For test cases there are two projects
 Run tests
 - From visual studio 2019+ you can select test proect, right click and select option to 'Run Tests'
  - From terminal, go inside test project
-    src/Api.Http path and run `dotnet tests`
+    src/Api.Http path and run `dotnet test`
